@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+#Ian Hudson, OS Python Lab 1 
 
 import sys        # command line arguments
 import re         # regular expression tools
